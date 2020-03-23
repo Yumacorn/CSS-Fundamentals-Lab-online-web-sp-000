@@ -3,6 +3,7 @@ header {
 }
 nav {
   text-align: center;
+  text-background: grey;
 }
 body {
   width: 100%;
