@@ -7,7 +7,7 @@ body {
   height: 100%;
   margin: 0;
 }
-
+/*
 figure {
   /*display: block;
   margin-left: auto;
@@ -17,7 +17,7 @@ figure {
 figcaption {
   text-align: center;
 }
-/*.center {
+/*.center {*/
   display: block;
   margin-left: auto;
   margin-right: auto;
