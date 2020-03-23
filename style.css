@@ -13,6 +13,12 @@ figure {
   margin-left: auto;
   margin-right: auto;
   width: 40%;*/
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 }
 figcaption {
   text-align: center;
